@@ -15,10 +15,10 @@
 <table align='center'>
     <tbody>
         <tr>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/InWooOh"><img src="https://avatars.githubusercontent.com/u/101935307?v=4" width="100px;"/><br/><sub><b>강산들</b></sub></a><br/></td>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/InWooOh"><img src="https://avatars.githubusercontent.com/u/101935307?v=4" width="100px;"/><br/><sub><b>박연호</b></sub></a><br/></td>          
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/InWooOh"><img src="https://avatars.githubusercontent.com/u/101935307?v=4" width="100px;"/><br/><sub><b>심재훈</b></sub></a><br/></td>          
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/InWooOh"><img src="https://avatars.githubusercontent.com/u/101935307?v=4" width="100px;"/><br/><sub><b>안석우</b></sub></a><br/></td>          
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/ssandree"><img src="https://avatars.githubusercontent.com/u/126396352?v=4" width="100px;"/><br/><sub><b>강산들</b></sub></a><br/></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/YeoNwo19"><img src="https://avatars.githubusercontent.com/u/117068686?v=4" width="100px;"/><br/><sub><b>박연호</b></sub></a><br/></td>          
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/jhoon-Shim"><img src="https://avatars.githubusercontent.com/u/142377486?v=4" width="100px;"/><br/><sub><b>심재훈</b></sub></a><br/></td>          
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/ahnsukwoo"><img src="https://avatars.githubusercontent.com/u/108803131?v=4" width="100px;"/><br/><sub><b>안석우</b></sub></a><br/></td>          
             <td align="center" valign="top" width="14.28%"><a href="https://github.com/InWooOh"><img src="https://avatars.githubusercontent.com/u/101935307?v=4" width="100px;"/><br/><sub><b>오인우</b></sub></a><br/></td>         
         </tr>
     </tbody>
